@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    // test add
     int t,i=1,j,n,array_num[1000],c,sum;
     double avg,total;
     scanf("%d",&t);
